@@ -12,6 +12,7 @@ public class Loops{
             System.out.print(" ");
         }
         System.out.println();
+        
         System.out.println("while loop:");
         int i=0;
         while(i<=100)
